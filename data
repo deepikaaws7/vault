@@ -1,2 +1,4 @@
 data
 https://github.com/hashicorp/vault-guides/tree/master/operations/provision-vault/best-practices/terraform-aws
+
+https://medium.com/hashicorp-engineering/secret-zero-problem-solved-for-hashicorp-vault-ab983a45a8c0
